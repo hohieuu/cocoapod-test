@@ -1,0 +1,6 @@
+framework module hieuho {
+  umbrella header "hieuho-umbrella.h"
+
+  export *
+  module * { export * }
+}

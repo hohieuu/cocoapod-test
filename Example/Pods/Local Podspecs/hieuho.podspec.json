@@ -1,0 +1,22 @@
+{
+  "name": "hieuho",
+  "version": "0.1.0",
+  "summary": "A short description of hieuho.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/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/hieuho",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "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": "hohieu1099@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/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/hieuho.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "hieuho/Classes/**/*"
+}

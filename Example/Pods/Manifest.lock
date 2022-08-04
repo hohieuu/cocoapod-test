@@ -1,0 +1,16 @@
+PODS:
+  - hieuho (0.1.0)
+
+DEPENDENCIES:
+  - hieuho (from `../`)
+
+EXTERNAL SOURCES:
+  hieuho:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  hieuho: 67d8d788a1954fad484aefc26942c00b6cb21552
+
+PODFILE CHECKSUM: 9c33d9e4f238d53aa8ea1950a6cee4fc1ac876b3
+
+COCOAPODS: 1.11.2
