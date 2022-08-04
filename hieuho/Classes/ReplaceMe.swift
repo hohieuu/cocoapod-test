@@ -7,7 +7,7 @@ public struct MyLibrary {
     }
 }
 
- public struct SwiftUIView: View {
+public struct SwiftUIView: View {
      public init(){
          
      }

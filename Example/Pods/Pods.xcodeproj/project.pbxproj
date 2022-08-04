@@ -10,7 +10,6 @@
 		004AAD841E4956EA0E51EA208CDF0372 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		1C938B0746B34C8142C8AEBE8C9FD1D2 /* hieuho-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 634D32C97B75BFCDB44EF703534759E4 /* hieuho-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		1F2549AC5AAC7392967F38180B621661 /* Pods-hieuho_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 76A3E7A244E3F5F69C2D71989A2B31A2 /* Pods-hieuho_Tests-dummy.m */; };
-		271D3617E1FC35CA9702E1B8310A7232 /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 147AE99058323344CBC02493D57F2FA7 /* ReplaceMe.swift */; };
 		70424402289C237800541F9B /* HieuHoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70424401289C237800541F9B /* HieuHoView.swift */; };
 		8B46B8A19C8E9886DA2B8C1A2AAC61A3 /* Pods-hieuho_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 69D99EAEE9384E26AA2607551081A457 /* Pods-hieuho_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		90D06A75B4B6687FC51B26AD7A2155F4 /* Pods-hieuho_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 1BF20D95021D88A7A42FBEDCE10E7C69 /* Pods-hieuho_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -40,7 +39,6 @@
 /* Begin PBXFileReference section */
 		0D52D179206FE508ACC3E1406439560D /* Pods-hieuho_Example */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-hieuho_Example"; path = Pods_hieuho_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		1241C5D949B2DA896FA4A2B081E789CD /* Pods-hieuho_Tests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-hieuho_Tests"; path = Pods_hieuho_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		147AE99058323344CBC02493D57F2FA7 /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = hieuho/Classes/ReplaceMe.swift; sourceTree = "<group>"; };
 		1BF20D95021D88A7A42FBEDCE10E7C69 /* Pods-hieuho_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-hieuho_Example-umbrella.h"; sourceTree = "<group>"; };
 		2982EBF9FE370477FF4B301FD44C2B78 /* Pods-hieuho_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-hieuho_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		33F9AA02500845F4BB7256569C36ADB9 /* Pods-hieuho_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-hieuho_Example-dummy.m"; sourceTree = "<group>"; };
@@ -123,7 +121,6 @@
 			isa = PBXGroup;
 			children = (
 				70424400289C233B00541F9B /* Classes */,
-				147AE99058323344CBC02493D57F2FA7 /* ReplaceMe.swift */,
 				9E51080F7D7F2B5E066D41B38DE3B340 /* Pod */,
 				63CE97C2360902C773FADC783969699D /* Support Files */,
 			);
@@ -380,7 +377,6 @@
 			files = (
 				D9B99D29C5732AE5D0C9B91B90ACB1A4 /* hieuho-dummy.m in Sources */,
 				70424402289C237800541F9B /* HieuHoView.swift in Sources */,
-				271D3617E1FC35CA9702E1B8310A7232 /* ReplaceMe.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
