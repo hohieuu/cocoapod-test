@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'hieuho_Example' do
+  pod 'hieuho', :path => '../'
+
+  target 'hieuho_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
