@@ -22,7 +22,6 @@ pod 'hieuho'
 
 ## Author
 
-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, hohieu1099@gmail.com
 
 ## License
 
